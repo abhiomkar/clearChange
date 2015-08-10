@@ -3,5 +3,16 @@
   "description": "Make the number transition smooth on increment or decrement.",
   "main": "src/clearinc.js",
   "version": "1.0.0",
-  "dependencies": {}
+  "authors": [
+    "Abhinay Omkar <abhiomkar@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {},
+  "ignore": [
+      "**/.*",
+      "node_modules",
+      "bower_components",
+      "test",
+      "tests"
+    ]
 }
