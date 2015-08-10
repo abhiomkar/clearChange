@@ -1,0 +1,7 @@
+{
+  "name": "clearinc",
+  "description": "Make the number transition smooth on increment or decrement.",
+  "main": "src/clearinc.js",
+  "version": "1.0.0",
+  "dependencies": {}
+}
